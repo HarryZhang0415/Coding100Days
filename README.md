@@ -5,3 +5,4 @@ The reason why creating this repo is for coding exercises. Obviously, if anyone 
 No bluff and just do it.
 
 - Day 1: Leetcode 139.WordBreak
+- Day 2: Leetcode 394.Decode String
