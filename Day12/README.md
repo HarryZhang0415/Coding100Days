@@ -39,3 +39,7 @@ rotate the input matrix in-place such that it becomes:
   [12, 6, 8, 9],
   [16, 7,10,11]
 ]
+
+## SQL 2 道
+# 1. https://www.nowcoder.com/practice/3a303a39cc40489b99a7e1867e6507c5?tpId=82&&tqId=29780&rp=1&ru=/activity/oj&qru=/ta/sql/question-ranking
+# 2. https://www.nowcoder.com/practice/a158fa6e79274ac497832697b4b83658?tpId=82&tqId=29781&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fsql%2Fquestion-ranking&tPage=2
