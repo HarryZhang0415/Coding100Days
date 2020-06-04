@@ -17,3 +17,4 @@ No bluff and just do it.
 - Day 11: # 64. Minimum Path Sum ** Special Using Dynamic Programming in searching path
 - Day 12: # 48. Rotate Image *** Sol4 recommended + 2 SQL
 - Day 13: # 621. Task Scheduler **** super hard one
+- Day 14: # 96. Unique Binary Search Trees
