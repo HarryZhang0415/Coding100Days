@@ -1,5 +1,3 @@
-ep table: *
-
 select *
 from employees
 where not exists(
