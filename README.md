@@ -21,3 +21,4 @@ No bluff and just do it.
 - Day 15: # 152. Maximum Product Subarray
 - Day 16: # 438. Find All Anagrams in a String
 - Day 17: # 706. Design HashMap + 2 SQL
+- Day 18: # 78. Subsets + 2 SQL
