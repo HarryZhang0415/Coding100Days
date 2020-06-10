@@ -22,4 +22,5 @@ No bluff and just do it.
 - Day 16: # 438. Find All Anagrams in a String
 - Day 17: # 706. Design HashMap + 2 SQL
 - Day 18: # 78. Subsets + 2 SQL
-- Day 19: # # 647. Palindromic Substrings + 2 SQL(using function "substr()" and "||") 
+- Day 19: # 647. Palindromic Substrings + 2 SQL(using function "substr()" and "||") 
+- Day 20: # 102. Binary Tree Level Order Traversal + 2 SQL(using function "update")
