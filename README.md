@@ -25,3 +25,4 @@ No bluff and just do it.
 - Day 19: # 647. Palindromic Substrings + 2 SQL(using function "substr()" and "||") 
 - Day 20: # 102. Binary Tree Level Order Traversal + 2 SQL(using function "update")
 - Day 21: # 300. Longest Increasing Subsequence ***************************** needs review
+- Day 22: # 207. Course Schedule ************************* needs review
