@@ -30,4 +30,6 @@ class Solution:
             size = max(i + 1, size)
         return size
 
+s = Solution()
+s.lengthOfLIS([10,9,2,5,3,7,101,18])
 # Runtime: 48 ms
