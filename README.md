@@ -27,4 +27,4 @@ No bluff and just do it.
 - Day 21: # 300. Longest Increasing Subsequence ***************************** needs review
 - Day 22: # 207. Course Schedule ************************* needs review
 - Day 23: # # 227. Basic Calculator II + 2 SQL
-- Day 24: # 55. Jump Game
+- Day 24: # 55. Jump Game + 2 SQL
