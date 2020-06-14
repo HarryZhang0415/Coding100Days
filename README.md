@@ -26,4 +26,5 @@ No bluff and just do it.
 - Day 20: # 102. Binary Tree Level Order Traversal + 2 SQL(using function "update")
 - Day 21: # 300. Longest Increasing Subsequence ***************************** needs review
 - Day 22: # 207. Course Schedule ************************* needs review
-- Day 23: # # 227. Basic Calculator II
+- Day 23: # # 227. Basic Calculator II + 2 SQL
+- Day 24: # 55. Jump Game
