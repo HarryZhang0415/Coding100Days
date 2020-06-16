@@ -28,3 +28,5 @@ No bluff and just do it.
 - Day 22: # 207. Course Schedule ************************* needs review
 - Day 23: # # 227. Basic Calculator II + 2 SQL
 - Day 24: # 55. Jump Game + 2 SQL
+- Day 25: # 287. Find the Duplicate Number
+- Day 26: # 437. Path Sum III
