@@ -31,3 +31,4 @@ No bluff and just do it.
 - Day 25:   # 287. Find the Duplicate Number
 - Day 26:   # 437. Path Sum III
 - Day 27:   # 62. Unique Paths
+- Day 28:   # 19. Remove Nth Node From End of List
