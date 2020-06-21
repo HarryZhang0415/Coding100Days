@@ -34,3 +34,4 @@ No bluff and just do it.
 - Day 28:   # 19. Remove Nth Node From End of List
 - Day 29:   # 75. Sort Colors
 - Day 30:   # 94. Binary Tree Inorder Traversal
+- Day 31:   # 104. Maximum Depth of Binary Tree | # 114. Flatten Binary Tree to Linked List ***
