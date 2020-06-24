@@ -37,3 +37,4 @@ No bluff and just do it.
 - Day 31:   # 104. Maximum Depth of Binary Tree | # 114. Flatten Binary Tree to Linked List ***
 - Day 32:   # 406. Queue Reconstruction by Height **********
 - Day 33:   # 416. Partition Equal Subset Sum ***
+- Day 34:   # 279. Perfect Squares
