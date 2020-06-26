@@ -39,3 +39,4 @@ No bluff and just do it.
 - Day 33:   # 416. Partition Equal Subset Sum ***
 - Day 34:   # 279. Perfect Squares
 - Day 35:   # 208. Implement Trie (Prefix Tree) | # 448. Find All Numbers Disappeared in an Array
+- Day 36:   # 230. Kth Smallest Element in a BST
