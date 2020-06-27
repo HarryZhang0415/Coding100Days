@@ -40,3 +40,4 @@ No bluff and just do it.
 - Day 34:   # 279. Perfect Squares
 - Day 35:   # 208. Implement Trie (Prefix Tree) | # 448. Find All Numbers Disappeared in an Array
 - Day 36:   # 230. Kth Smallest Element in a BST
+- Day 37:   # 226. Invert Binary Tree | # 494. Target Sum
