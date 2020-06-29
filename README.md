@@ -41,3 +41,4 @@ No bluff and just do it.
 - Day 35:   # 208. Implement Trie (Prefix Tree) | # 448. Find All Numbers Disappeared in an Array
 - Day 36:   # 230. Kth Smallest Element in a BST
 - Day 37:   # 226. Invert Binary Tree | # 494. Target Sum
+- Day 38:   # 337. House Robber III | # 581. Shortest Unsorted Continuous Subarray
