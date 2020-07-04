@@ -45,3 +45,4 @@ No bluff and just do it.
 - Day 39:   # 617. Merge Two Binary Trees
 - Day 40:   # 142. Linked List Cycle II
 - Day 41:   # 338. Counting Bits
+- Day 42:   # 1249. Minimum Remove to Make Valid Parentheses
