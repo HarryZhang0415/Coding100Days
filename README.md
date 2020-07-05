@@ -47,3 +47,4 @@ No bluff and just do it.
 - Day 41:   # 338. Counting Bits
 - Day 42:   # 1249. Minimum Remove to Make Valid Parentheses
 - Day 43:   # 692. Top K Frequent Words
+- Day 44:   # 54. Spiral Matrix
