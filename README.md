@@ -53,3 +53,4 @@ No bluff and just do it.
 - Day 47:   # 199. Binary Tree Right Side View
 - Day 48:   # 289. Game of Life
 - Day 49:   # 609. Find Duplicate File in System | # 1179. Reformat Department Table | # 262. Trips and Users
+- Day 50:   # 680. Valid Palindrome II | # 185. Department Top Three Salaries | # 1212. Team Scores in Football Tournament
