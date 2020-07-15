@@ -54,3 +54,9 @@ No bluff and just do it.
 - Day 48:   # 289. Game of Life
 - Day 49:   # 609. Find Duplicate File in System | # 1179. Reformat Department Table | # 262. Trips and Users
 - Day 50:   # 680. Valid Palindrome II | # 185. Department Top Three Salaries | # 1212. Team Scores in Football Tournament
+
+# Part Two:
+
+- Day 1: # 1 Two Sum | # 200 Number of Islands | # 2 Add Two Numbers | 937 Reorder Data in Log Files | 42 Trapping Rain Water
+- Day 2: # LRU Cache | # Longest Palindromic Substring | # Merge k Sorted Lists | Maximum Subarray  | # Longest Substring Without Repeating Characters | # 	Valid Parentheses
+- Day 3: # Merge Two Sorted Lists | Product of Array Except Self | Merge Intervals | Best Time to Buy and Sell Stock | Reverse Linked List| Integer to English Words  
