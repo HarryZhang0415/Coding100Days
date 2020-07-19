@@ -60,3 +60,5 @@ No bluff and just do it.
 - Day 1: # 1 Two Sum | # 200 Number of Islands | # 2 Add Two Numbers | 937 Reorder Data in Log Files | 42 Trapping Rain Water
 - Day 2: # LRU Cache | # Longest Palindromic Substring | # Merge k Sorted Lists | Maximum Subarray  | # Longest Substring Without Repeating Characters | # 	Valid Parentheses
 - Day 3: # Merge Two Sorted Lists | Product of Array Except Self | Merge Intervals | Best Time to Buy and Sell Stock | Reverse Linked List| Integer to English Words  
+- Day 4: # Subarray Sum Equals K | Verifying an Alien Dictionary | 	Minimum Remove to Make Valid Parentheses | K Closest Points to Origin | Generate Parentheses
+- Day 5: # Top K Frequent Words | Add Strings | Meeting Rooms II | Minimum Window Substring | Word Break | Container With Most Water | Serialize and Deserialize Binary Tree | Text Justification   
