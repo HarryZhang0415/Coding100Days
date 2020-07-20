@@ -62,3 +62,4 @@ No bluff and just do it.
 - Day 3: # Merge Two Sorted Lists | Product of Array Except Self | Merge Intervals | Best Time to Buy and Sell Stock | Reverse Linked List| Integer to English Words  
 - Day 4: # Subarray Sum Equals K | Verifying an Alien Dictionary | 	Minimum Remove to Make Valid Parentheses | K Closest Points to Origin | Generate Parentheses
 - Day 5: # Top K Frequent Words | Add Strings | Meeting Rooms II | Minimum Window Substring | Word Break | Container With Most Water | Serialize and Deserialize Binary Tree | Text Justification   
+- Day 6: # First Missing Positive | Spiral Matrix | Search in Rotated Sorted Array | Insert Delete GetRandom O(1) | Partition Labels
