@@ -63,3 +63,5 @@ No bluff and just do it.
 - Day 4: # Subarray Sum Equals K | Verifying an Alien Dictionary | 	Minimum Remove to Make Valid Parentheses | K Closest Points to Origin | Generate Parentheses
 - Day 5: # Top K Frequent Words | Add Strings | Meeting Rooms II | Minimum Window Substring | Word Break | Container With Most Water | Serialize and Deserialize Binary Tree | Text Justification   
 - Day 6: # First Missing Positive | Spiral Matrix | Search in Rotated Sorted Array | Insert Delete GetRandom O(1) | Partition Labels
+- Day 7: # Reverse Integer | Coin Change | Time Based Key-Value Store | Permutations | 	Kth Largest Element in an Array
+- Day 8: # Letter Combinations of a Phone Number | Binary Tree Right Side View | Decode String   7/22/2020
