@@ -66,3 +66,4 @@ No bluff and just do it.
 - Day 7: # Reverse Integer | Coin Change | Time Based Key-Value Store | Permutations | 	Kth Largest Element in an Array
 - Day 8: # Letter Combinations of a Phone Number | Binary Tree Right Side View | Decode String   7/22/2020
 - Day 9: # 127. Word Ladder 7/23/2020
+- 7/24/2020 Day 10: # 91. Decode Ways
