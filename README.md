@@ -57,13 +57,14 @@ No bluff and just do it.
 
 # Part Two:
 
-- Day 1: # 1 Two Sum | # 200 Number of Islands | # 2 Add Two Numbers | 937 Reorder Data in Log Files | 42 Trapping Rain Water
-- Day 2: # LRU Cache | # Longest Palindromic Substring | # Merge k Sorted Lists | Maximum Subarray  | # Longest Substring Without Repeating Characters | # 	Valid Parentheses
-- Day 3: # Merge Two Sorted Lists | Product of Array Except Self | Merge Intervals | Best Time to Buy and Sell Stock | Reverse Linked List| Integer to English Words  
-- Day 4: # Subarray Sum Equals K | Verifying an Alien Dictionary | 	Minimum Remove to Make Valid Parentheses | K Closest Points to Origin | Generate Parentheses
-- Day 5: # Top K Frequent Words | Add Strings | Meeting Rooms II | Minimum Window Substring | Word Break | Container With Most Water | Serialize and Deserialize Binary Tree | Text Justification   
-- Day 6: # First Missing Positive | Spiral Matrix | Search in Rotated Sorted Array | Insert Delete GetRandom O(1) | Partition Labels
-- Day 7: # Reverse Integer | Coin Change | Time Based Key-Value Store | Permutations | 	Kth Largest Element in an Array
-- Day 8: # Letter Combinations of a Phone Number | Binary Tree Right Side View | Decode String   7/22/2020
-- Day 9: # 127. Word Ladder 7/23/2020
-- 7/24/2020 Day 10: # 91. Decode Ways
+- Day 51: # 1 Two Sum | # 200 Number of Islands | # 2 Add Two Numbers | 937 Reorder Data in Log Files | 42 Trapping Rain Water
+- Day 52: # LRU Cache | # Longest Palindromic Substring | # Merge k Sorted Lists | Maximum Subarray  | # Longest Substring Without Repeating Characters | # 	Valid Parentheses
+- Day 53: # Merge Two Sorted Lists | Product of Array Except Self | Merge Intervals | Best Time to Buy and Sell Stock | Reverse Linked List| Integer to English Words  
+- Day 54: # Subarray Sum Equals K | Verifying an Alien Dictionary | 	Minimum Remove to Make Valid Parentheses | K Closest Points to Origin | Generate Parentheses
+- Day 55: # Top K Frequent Words | Add Strings | Meeting Rooms II | Minimum Window Substring | Word Break | Container With Most Water | Serialize and Deserialize Binary Tree | Text Justification   
+- Day 56: # First Missing Positive | Spiral Matrix | Search in Rotated Sorted Array | Insert Delete GetRandom O(1) | Partition Labels
+- Day 57: # Reverse Integer | Coin Change | Time Based Key-Value Store | Permutations | 	Kth Largest Element in an Array
+- Day 58: # Letter Combinations of a Phone Number | Binary Tree Right Side View | Decode String   7/22/2020
+- Day 59: # 127. Word Ladder 7/23/2020
+- 7/24/2020 Day 60: # 91. Decode Ways
+- 7/25/2020 Day 61: # 138. Copy List with Random Pointer
