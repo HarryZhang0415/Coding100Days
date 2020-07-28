@@ -69,3 +69,4 @@ No bluff and just do it.
 - 7/24/2020 Day 60: # 91. Decode Ways
 - 7/25/2020 Day 61: # 138. Copy List with Random Pointer
 - 7/26/2020 Day 62: # 221. Maximal Square
+- 7/27/2020 Day 63: # 227. Basic Calculator II
