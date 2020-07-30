@@ -71,3 +71,5 @@ No bluff and just do it.
 - 7/26/2020 Day 62: # 221. Maximal Square
 - 7/27/2020 Day 63: # 227. Basic Calculator II
 - 7/28/2020 Day 64: # 289. Game of Life
+- 7/29/2020 Day 65: # 348. Design Tic-Tac-Toe
+- 7/30/2020 Day 66: # 362. Design Hit Counter
