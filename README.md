@@ -74,4 +74,5 @@ No bluff and just do it.
 - 7/29/2020 Day 65: # 348. Design Tic-Tac-Toe
 - 7/30/2020 Day 66: # 362. Design Hit Counter
 - 7/31/2020 Day 67: # 445. Add Two Numbers II | DE e7
-- 8/1/2020  Day 68: # 609. Find Duplicate File in System | # 6. ZigZag Conversion | DE e8 | Logger Rate Limiter
+- 8/1/2020  Day 68: # 609. Find Duplicate File in System | # 6. ZigZag Conversion | DE e8 part 1| Logger Rate Limiter
+- 8/2/2020  Day 69: # Design HashSet | e8 part 2 | SQL first 20
