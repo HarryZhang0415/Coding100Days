@@ -76,3 +76,6 @@ No bluff and just do it.
 - 7/31/2020 Day 67: # 445. Add Two Numbers II | DE e7
 - 8/1/2020  Day 68: # 609. Find Duplicate File in System | # 6. ZigZag Conversion | DE e8 part 1| Logger Rate Limiter
 - 8/2/2020  Day 69: # Design HashSet | e8 part 2 | SQL first 20
+- 8/3/2020  Day 70: 没在这里记录哈哈忘了，应该是10道SQL题目加一道编程题 
+- 8/4/2020  Day 71: 没在这里记录，同上
+- 8/5/2020  Day 72:# 173. Binary Search Tree Iterator | 10 SQL | DE e10
