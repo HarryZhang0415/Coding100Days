@@ -80,3 +80,4 @@ No bluff and just do it.
 - 8/4/2020  Day 71: 没在这里记录，同上
 - 8/5/2020  Day 72:# 173. Binary Search Tree Iterator | 10 SQL | DE e10 | # Add and Search Word - Data structure design
 - 8/6/2020  Day 73:# 442. Find All Duplicates in an Array | 10 SQL 
+- 8/7/2020  Day 74: # Vertical Order Traversal of a Binary Tree | DE e11 | 10SQL
