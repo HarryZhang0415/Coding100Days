@@ -82,3 +82,4 @@ No bluff and just do it.
 - 8/6/2020  Day 73:# 442. Find All Duplicates in an Array | 10 SQL 
 - 8/7/2020  Day 74: # Vertical Order Traversal of a Binary Tree | DE e11 | 10SQL
 - 8/8/2020  Day 75: # Closest Binary Search Tree Value | # Path Sum III
+- 8/9/2020  Day 76: # Rotting Oranges
