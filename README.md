@@ -84,4 +84,4 @@ No bluff and just do it.
 - 8/8/2020  Day 75: # Closest Binary Search Tree Value | # Path Sum III
 - 8/9/2020  Day 76: # Rotting Oranges | 10 SQL
 - 8/10/2020 Day 77: # Excel Sheet Column Number | 10 SQL
-- 8/11/2020 Day 78: # H-Index | 10 SQL
+- 8/11/2020 Day 78: # H-Index | 2 SQL
