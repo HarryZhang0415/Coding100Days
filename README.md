@@ -85,3 +85,4 @@ No bluff and just do it.
 - 8/9/2020  Day 76: # Rotting Oranges | 10 SQL
 - 8/10/2020 Day 77: # Excel Sheet Column Number | 10 SQL
 - 8/11/2020 Day 78: # H-Index | 2 SQL
+- 8/12/2020 Day 79: # Pascal's Triangle II | 3 SQL
