@@ -88,3 +88,5 @@ No bluff and just do it.
 - 8/12/2020 Day 79: # Pascal's Triangle II | 3 SQL
 - 8/13/2020 Day 80: # 1286. Iterator for Combination
 - 8/14/2020 Day 81: # Longest Palindrome
+- 8/15/2020 Day 82: # 10 SQL
+- 8/16/2020 Day 83: # buy and sell stocks 
