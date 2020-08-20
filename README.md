@@ -91,3 +91,4 @@ No bluff and just do it.
 - 8/15/2020 Day 82: # 10 SQL
 - 8/16/2020 Day 83: # buy and sell stocks 
 - 8/18/2020 Day 84: # Numbers With Same Consecutive Differences
+- 8/20/2020 Day 85: # Reorder List
