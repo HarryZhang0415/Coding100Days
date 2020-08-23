@@ -93,3 +93,4 @@ No bluff and just do it.
 - 8/18/2020 Day 84: # Numbers With Same Consecutive Differences
 - 8/20/2020 Day 85: # Reorder List
 - 8/21/2020 Day 86: # Sort Array By Parity
+- 8/22/2020 Day 87: # 31. Next Permutation
