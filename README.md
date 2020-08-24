@@ -94,3 +94,4 @@ No bluff and just do it.
 - 8/20/2020 Day 85: # Reorder List
 - 8/21/2020 Day 86: # Sort Array By Parity
 - 8/22/2020 Day 87: # 31. Next Permutation
+- 8/23/2020 Day 88: Start Learning algorithms in educative. Chapter 2: Sliding window part 1 | SQL e13
