@@ -98,3 +98,6 @@ No bluff and just do it.
 - 8/24/2020 Day 89: 算法分类 in educative chapter 2: sliding window part 2
 - 8/25/2020 Day 90: educative chapter 3: two pointers part 1 | SQL e14
 - 8/27/2020 Day 91: 给自己放了一天假哈哈 | two pointers part 2 
+
+# PART 3: Grokking the Algorithm interview + Grokking the SQL interview
+- 8/30/2020 Day 92: Derivatives | GA Fast/Slow pointer part 1
