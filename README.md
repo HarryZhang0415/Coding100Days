@@ -101,3 +101,4 @@ No bluff and just do it.
 
 # PART 3: Grokking the Algorithm interview + Grokking the SQL interview
 - 8/30/2020 Day 92: Derivatives | GA Fast/Slow pointer part 1
+- 9/2/2020 Day 93: Fast/Slow pointer part 2
