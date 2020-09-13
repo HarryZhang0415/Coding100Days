@@ -4,3 +4,4 @@
 - 9/7/2020  Day 2: Derivatives | grokking coding: cyclic sort
 - 9/9/2020  Day 3: Derivatives | test | Pentaho
 - 9/10/2020 Day 4: SQL 20
+- 9/12/2020 Day 5: SQL 20
