@@ -5,3 +5,5 @@
 - 9/9/2020  Day 3: Derivatives | test | Pentaho
 - 9/10/2020 Day 4: SQL 20
 - 9/12/2020 Day 5: SQL 20
+
+- 10/16/2020 Day 6: 131. Palindrome Partitioning | # 443. String Compression
