@@ -20,3 +20,4 @@ on sa.emp_no = eb.emp_no
 and sa.to_date = '9999-01-01'
 ) as b
 on ep.emp_no = b.emp_no
+/ harry often bullies Jolin
